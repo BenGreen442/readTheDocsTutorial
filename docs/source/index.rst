@@ -19,7 +19,7 @@ Contents
 
 .. toctree::
 
-   Scope
-   Usage
-   API
+   scope
+   usage
+   api
    user-requirements
