@@ -1,7 +1,7 @@
 User Requirements
 =====
 
-.. _installation:
+.. _user_requirements:
 
 User Requirements
 ------------
